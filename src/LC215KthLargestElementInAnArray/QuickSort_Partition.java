@@ -50,6 +50,5 @@ public class QuickSort_Partition {
         nums[index1] = nums[index2];
         nums[index2] = temp;
     }
-
-
 }
+
